@@ -1,0 +1,6 @@
+E:\Important File\Programs\Visual Studio\SWE-322_(Software Security)\Plaintext_Ciphertext\Plaintext_Ciphertext\bin\Debug\Plaintext_Ciphertext.exe.config
+E:\Important File\Programs\Visual Studio\SWE-322_(Software Security)\Plaintext_Ciphertext\Plaintext_Ciphertext\bin\Debug\Plaintext_Ciphertext.exe
+E:\Important File\Programs\Visual Studio\SWE-322_(Software Security)\Plaintext_Ciphertext\Plaintext_Ciphertext\bin\Debug\Plaintext_Ciphertext.pdb
+E:\Important File\Programs\Visual Studio\SWE-322_(Software Security)\Plaintext_Ciphertext\Plaintext_Ciphertext\obj\Debug\Plaintext_Ciphertext.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\Visual Studio\SWE-322_(Software Security)\Plaintext_Ciphertext\Plaintext_Ciphertext\obj\Debug\Plaintext_Ciphertext.exe
+E:\Important File\Programs\Visual Studio\SWE-322_(Software Security)\Plaintext_Ciphertext\Plaintext_Ciphertext\obj\Debug\Plaintext_Ciphertext.pdb
